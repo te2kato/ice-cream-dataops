@@ -20,10 +20,10 @@ variables:
 
       # Groups
       # OBJECT ID FOR test/prod Groups
-      data_developer_source_id: 72842903-e4b4-4cd5-80a6-3a3abfcc3d4b # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
-      data_pipeline_oee_source_id: e377006b-8e13-4f38-8d6b-c07be5d5c793 # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
-      readwrite_source_id: b7b46ae1-f383-478f-bf47-f9972cc69e02  # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
-      icapi_extractors_source_id: ed0e516d-d986-4ca9-90ee-a884a4aca040 # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
+      data_developer_source_id: 690e6fbf-af79-4d3d-9fdc-d299e09a6a36 # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
+      data_pipeline_oee_source_id: 8f1e1db6-61ee-4887-bdd8-391e772deef1 # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
+      readwrite_source_id: da10903b-7975-47e1-8f6a-544da78fd987  # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
+      icapi_extractors_source_id: 9ac9e19c-8d14-4d9c-9312-a944054c8785 # ex. xxxxxxxx-xxxx-xxxx-xxxxxxxxxxxx
 
       # Client Ids (App registrations or Service Principals)
       data_pipeline_oee_client_id: ${DATA_PIPELINE_OEE_CLIENT_ID} # replaced by .env
